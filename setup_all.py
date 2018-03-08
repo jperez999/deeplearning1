@@ -34,7 +34,7 @@ if not os.path.isfile('numbers.zip'):
     os.system(numbers_cmd)
     print ("done downloading numbers")
     print ("extracting and moving numbers data set")
-    os.system("unzip numbers.zip -d courses/dl1/data/")
+    os.system("unzip numbers.zip -d data/")
     print ("extraction complete")
 
 
@@ -44,7 +44,7 @@ if not os.path.isfile('weights.zip'):
     os.system(weights_cmd)
     print ("done downloading weights for models")
     print ("extracting and moving weights to fastai directory")
-    os.system("unzip weights.zip -d courses/dl1/fastai/")
+    os.system("unzip weights.zip -d fastai/")
     print ("extraction complete")
 
 
@@ -53,7 +53,7 @@ if not os.path.isfile('dogscats.zip'):
     os.system(dogscats_cmd)
     print ("done downloading dogscats data set")
     print ("extracting and moving dogscats data set")
-    os.system("unzip dogscats.zip -d courses/dl1/data/")
+    os.system("unzip dogscats.zip -d data/")
     print ("extraction complete")
 
 
@@ -62,7 +62,7 @@ if not os.path.isfile('planet.zip'):
     os.system(planets_cmd)
     print ("done downloading planet data set")
     print ("extracting and moving planet data set")
-    os.system("unzip planet.zip -d courses/dl1/data/")
+    os.system("unzip planet.zip -d data/")
     print ("extraction complete")
 
 
@@ -71,7 +71,7 @@ if not os.path.isfile('aclImdb.tgz'):
     os.system(reviews_cmd)
     print ("done downloading review for NLP setup")
     print ("extracting and moving reviews to data set")
-    os.system("tar -zxvf aclImdb.tgz -C courses/dl1/data/")
+    os.system("tar -zxvf aclImdb.tgz -C data/")
     print ("extraction complete")
 
 print("downloading jupyter notebook and packages...")
