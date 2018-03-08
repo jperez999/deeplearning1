@@ -17,12 +17,12 @@ For the following setup to work the machine needs to work with cuda and it needs
 
 # Setup
 
-After cloning this repository go into the main location `cd fastai/`. From here run the script setup_all.py (`python setup_all.py`). This will run all necessary downloads for data sets, weights and packages. Once completed run the command `jupyter notebook`. Once the jupyter server is done starting up login to the webpage and supply the given token in the output of the previous command to gain access then navigate to the correct notebooks which are available in `cd fastai/courses/dl1/` 
+After cloning this repository go into the main location `cd deeplearning1/. From here run the script setup_all.py (`python setup_all.py`). This will run all necessary downloads for data sets, weights and packages. Once completed run the command `jupyter notebook`. Once the jupyter server is done starting up login to the webpage and supply the given token in the output of the previous command to gain access then navigate to the correct notebooks.
 
 
 # Currently Available Projects
 
-Directory location: fastai/courses/dl1/
+Directory location: deeplearning1/
 
 
 
