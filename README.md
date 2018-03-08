@@ -1,3 +1,8 @@
+# DEEP LEARNING 1
+
+The fast ai library and courses were used in my adventure to learn to code, deep learning projects, in python.
+
+
 # fastai
 
 The fast.ai deep learning library, lessons, and tutorials.
