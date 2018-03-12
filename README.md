@@ -36,3 +36,6 @@ numbers.ipynb
 
 
 nlp_mov_revs.ipnyb ---> if you ran before this was available rerun the setup script to get necessary dependencies and data set.
+
+
+neural-style.ipynb
