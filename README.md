@@ -38,4 +38,4 @@ numbers.ipynb
 nlp_mov_revs.ipnyb ---> if you ran before this was available rerun the setup script to get necessary dependencies and data set.
 
 
-neural-style.ipynb
+neural-style.ipynb ---> for this project there is no data set, you just need two picture, one as the content and one for the style.
